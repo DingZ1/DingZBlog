@@ -25,6 +25,7 @@ bannerBrand:
 blog:
     socialLinks:
         - { icon: 'LogoGithub', link: 'https://github.com/recoluan' }
+        # - { icon: 'LogoGithub', link: 'https://juejin.cn/user/79611712509485' }
 isShowTitleInHome: true
 actionText: About
 actionLink: /views/other/about

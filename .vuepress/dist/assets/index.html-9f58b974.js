@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-244dadbe","path":"/blogs/leisure/","title":"","lang":"en-US","frontmatter":{"tags":["人世间"],"categories":["开始"]},"headers":[],"git":{"createdTime":1688052310000,"updatedTime":1688052310000,"contributors":[{"name":"yangyaoding","email":"1690378471@qq.com","commits":1}]},"filePathRelative":"blogs/leisure/README.md"}');export{e as data};

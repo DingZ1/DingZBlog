@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as o,a as e}from"./app-3a979dd6.js";const _={},c=e("p",null,"搭建该页面时，本意“茶余饭后”，谁料输入法成了“茶语”，但仔细看来也别有一番趣味，故为此茶语。",-1),s=e("p",null,"此篇为我的随笔。",-1),l=[c,s];function a(r,d){return n(),o("div",null,l)}const f=t(_,[["render",a],["__file","index.html.vue"]]);export{f as default};
